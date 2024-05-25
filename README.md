@@ -1,11 +1,9 @@
 
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natural3&" alt="natural3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natural3&show_icons=true&locale=en&layout=compact" alt="natural3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=natural3&show_icons=true&locale=en" alt="natural3" />
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=natural3&" alt="natural3" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=natural3&show_icons=true&locale=en" alt="natural3" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=natural3&show_icons=true&locale=en&layout=compact" alt="natural3" /></p>
 
-</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=natural3&label=Profile%20views&color=0e75b6&style=flat" alt="natural3" />
 </p>
