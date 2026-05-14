@@ -9,7 +9,7 @@
 
 Norwegian tech geek who has stumbled across various generations of the industry.
 - **10 years** of knowledge in security and PSIM systems.
-- **2 years** of experience with ERP, CRM, HCM, FS, and more.
+- **3 years** of experience with ERP, CRM, HCM, FS, and more.
 - Currently coding for an employer.
 
 ### Preferred OS
